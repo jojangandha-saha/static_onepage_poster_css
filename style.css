@@ -1,0 +1,31 @@
+html{
+    background-color: #000000;
+}
+
+.text{
+    font-family: 'Caveat', cursive;
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+#img{
+    border: 5px solid white;
+     margin-top: 5rem;
+  
+    height : 100%;
+     width : 100%; /*to fill the div*/
+
+}
+
+#div{
+    /* padding: 10rem
+     */
+     /*CENTRING A DIV*/
+     width: 50%;
+     margin-left: 25%;
+}
+
+#h1{
+    text-transform: uppercase;
+}
